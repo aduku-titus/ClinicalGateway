@@ -1,0 +1,16 @@
+# Business Case: ClinicalGateway
+
+*Version: 1.0 - Initial Hypothesis*
+*Date: July 3, 2025*
+
+---
+
+## 1. The Lean Canvas
+
+The Lean Canvas is a strategic tool to document and test our core business assumptions. This document will evolve as we gather validated learning.
+
+| Problem                                     | Solution                               | Key Metrics                               | Unique Value Proposition                | Unfair Advantage                        | Channels                                    | Customer Segments                           |
+| ------------------------------------------- | -------------------------------------- | ----------------------------------------- | --------------------------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| **1. High Operational Inefficiency:** Clinical staff spend hours on low-value administrative tasks (phone calls, follow-ups) instead of patient care, leading to increased labor costs and staff burnout.<br><br>**2. Delayed Patient Triage & Care:** Incoming referral documents are unstructured, making it difficult for the receiving facility to quickly prioritize (triage) patients. This leads to care delays and poor patient outcomes.<br><br>**3. Lack of System-Wide Visibility:** No centralized system exists to track referral status, leading to lost referrals, frustrated patients, and a complete lack of a feedback loop for the referring clinician.<br><br>**Existing Alternatives:**<br>• Manual phone calls and follow-ups.<br>• Hiring additional administrative staff.<br>• Using generic tools like email and spreadsheets.<br>• Reliance on outdated technology (e.g., fax machines). | **Outline a possible solution.**<br><br>• <br>• <br>• | **List the key numbers that indicate progress.**<br><br>• <br>• <br>• | **Single, clear, compelling message.**<br><br>What makes you different and worth paying attention to? | **What can't be easily copied or bought?**<br><br>• <br>• <br>• | **Pathways to customers.**<br><br>• <br>• <br>• | **Initial Customer Persona (ICP):**<br><br>**"Admin Anita"**: The overwhelmed Practice Manager of a busy, multi-specialist private clinic (e.g., Cardiology, Orthopedics). She is not a clinician, but she manages a team of 5-10 administrative staff. She is responsible for the clinic's operational efficiency, patient throughput, and budget. Her biggest headache is the chaotic and time-consuming process of handling incoming patient referrals. She reports directly to the clinic's lead physician/owner. |
+| **Cost Structure**                                                                                                                                                             | **Revenue Streams**                                                                                                                                                                 |
+| **List your key costs.**<br><br>• <br>• <br>•                                                                                             | **How will you make money?**<br><br>• <br>• <br>•                                                                          |
